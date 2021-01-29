@@ -1,6 +1,7 @@
 body {
     background-image: url("Swapnil.jpg"),url("Swap.jpg"),url("bg.jpg");
     border-spacing: 10px;
+    height:100%,100%,100%;
     background-repeat: no-repeat;
     /*background-position: 0% 0%,100% 0%;*/
     background-position: 1% 0.3cm,99% 0.3cm, 0 0;
